@@ -1,0 +1,1 @@
+The following project shows the implementation of multiple containers and how iterators help us traverse and access elements inside of different containers of different types using generic programming through templates and algorithms.
